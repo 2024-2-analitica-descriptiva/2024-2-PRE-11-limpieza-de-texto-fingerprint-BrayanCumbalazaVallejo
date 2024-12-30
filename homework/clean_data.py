@@ -98,7 +98,6 @@ def main(input_file, output_file):
     save_data(df, output_file)    
 
 
-
 if __name__ == "__main__":
     main(
         input_file="files/input.txt",
